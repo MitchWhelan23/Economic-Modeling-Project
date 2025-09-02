@@ -1,7 +1,7 @@
 # Mathematical Modeling Capstone Project  
 **Modeling Competition and Cooperation Between Economic Firms Using Differential Equations**  
 
-## 📌 Overview  
+## Overview  
 This repository contains the final project for my **Mathematical Modeling Capstone** course at Northeastern University. Working in a team of two, we developed and analyzed mathematical models that describe competition and cooperation between economic firms. Our approach was based on constructing and analyzing **systems of differential equations** to capture the dynamic interactions between firms under varying assumptions.  
 
 The project highlights my ability to:  
@@ -12,7 +12,7 @@ The project highlights my ability to:
 
 ---
 
-## ⚙️ Project Details  
+## Project Details  
 - **Mathematical Focus:** Nonlinear systems of ODEs, equilibria, stability, phase plane analysis.  
 - **Application Domain:** Economic competition and cooperation between firms.  
 - **Key Methods:**  
